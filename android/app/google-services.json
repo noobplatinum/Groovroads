@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84544124024",
+    "project_id": "groovroads01-b1f7c",
+    "storage_bucket": "groovroads01-b1f7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84544124024:android:f1e0e8a81dcb53233f698d",
+        "android_client_info": {
+          "package_name": "com.example.groovroads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtMm0ri86b1t6WENGcmuYtgfLAKICS7cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
