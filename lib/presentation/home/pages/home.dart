@@ -119,15 +119,15 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8.0),
-            child: Text('Artists', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
+            child: Text('TBA', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8.0),
-            child: Text('Albums', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
+            child: Text('TBA', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8.0),
-            child: Text('Podcasts', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
+            child: Text('TBA', style: TextStyle(fontWeight: FontWeight.w400, fontSize: 16)),
           ),
         ],
       ),
