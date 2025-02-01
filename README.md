@@ -1,16 +1,11 @@
 # groovroads
 
-A new Flutter project.
+Groovroads is a flutter based music player. Groovroads is built for user comfort and ease of access, from a theme selection, to a favorite music system. The application's structure is built using Flutter, Cubits (from Bloc), and Firebase - Firestore as the storage. The project's target is to simulate the workings of a proper music player app on mobile, alongside the critical features.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As an overview, this project includes:
+- A theme selector (light/dark)
+- Sign Up and Log In (using Firebase)
+- Dashboard with new releases and overall playlists
+- Music player
+- Favorite songs
+- Simple profile with favorited songs
